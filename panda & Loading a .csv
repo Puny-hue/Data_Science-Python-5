@@ -1,0 +1,11 @@
+* Load tabular data from Multiple Sources
+* Search for particular rows and columns in loaded data
+* Caliculate  aggregate statistic like averages and standard deviation
+* Combining data from Multiple Sources
+
+  -LOADING A .CSV
+ import pandas as pd
+ [Displaying a DataFrame]
+ df = pd.read_csv(' ')
+ print(df)
+ 
